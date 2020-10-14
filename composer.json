@@ -1,0 +1,10 @@
+{
+  "name": "drupal/field_formatter",
+  "description": "This is text field formatter module, which will add three additional formatters for text field.",
+  "type": "drupal-module",
+  "license": "MIT",
+  "require": {
+    "cocur/slugify": "^2.5",
+    "qTip2/qTip2": "^3.0.3",
+  },
+}

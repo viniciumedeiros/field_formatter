@@ -1,0 +1,10 @@
+name: Text Field Formatter
+description: Writting text field formatter which will allow three type of formatting for text field.
+package: Fields
+dependencies:
+ - text
+ - field
+ - libraries
+
+type: module
+core: 8.x

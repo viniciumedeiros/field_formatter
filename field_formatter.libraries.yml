@@ -1,0 +1,19 @@
+qTip2:
+  remote: https://github.com/qTip2/qTip2
+  version: 3.0.3
+  license:
+      name: MIT
+      gpl-compatible: true
+  js:
+    /libraries/qTip2/dist/jquery.qtip.min.js: {}
+  css:
+    theme:
+      /libraries/qTip2/dist/jquery.qtip.min.css: {}
+
+tooltipformatter_js:
+  version: 1.x
+  js:
+    js/field_formatter.js: {}
+  css:
+    theme:
+      css/field_formatter.css: {}

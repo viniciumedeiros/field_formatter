@@ -1,0 +1,17 @@
+<?php
+/**
+ * @file
+ * Text field formatter module integrating theme with formatt.
+ */
+
+
+/**
+ * Implements hook_theme().
+ */
+function field_formatter_theme() {
+  return array(
+    'text_field_tooltip_qTip2_formatter' => array(
+      'variables' => array('text' => NULL, 'class' => 'text_field_tooltip_qTip2_formatter'),
+    ),
+  );
+}
