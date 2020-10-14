@@ -1,5 +1,34 @@
-Text Field Formatters
-=================
+<h4 align="center">
+    Text Field Formatters
+</h4>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viniciumedeiros/field_formatter">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciumedeiros/field_formatter">
+	
+  <a href="https://www.linkedin.com/in/viniciumedeiros/">
+    <img alt="Made by Vinícius Medeiros" src="https://img.shields.io/badge/made%20by-viniciumedeiros-%2304D361">
+  </a>
+  
+  <a href="https://github.com/viniciumedeiros/field_formatter/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/viniciumedeiros/field_formatter">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/viniciumedeiros/field_formatter/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/viniciumedeiros/field_formatter?style=social">
+  </a>
+</p>
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+## 💻 Project
 
 The Custom Formatters module allows users to select three Text Field Formatters.
 
@@ -56,8 +85,17 @@ composer.json file and run
     composer require cocur/slugify
   `
 
+## 👽 How to contribute
+
+-  Make a fork;
+-  Create a branck with your feature: `git checkout -b my-feature`;
+-  Commit changes: `git commit -m 'feat: My new feature'`;
+-  Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
 ## 📃 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/viniciumedeiros/bankon/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/viniciumedeiros/field_formatter/blob/master/LICENSE) for details.
 
 🎓 Made with by Vinícius Medeiros 👨🏻‍💻 [Get in touch!](https://www.linkedin.com/in/viniciumedeiros/)
